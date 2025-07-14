@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RYZEN\\source\\repos\\TrabajadoresPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B30B996-3F70-443B-BF4D-872F696E87F0}|TrabajadoresPrueba\\TrabajadoresPrueba.csproj|c:\\users\\ryzen\\source\\repos\\trabajadoresprueba\\trabajadoresprueba\\controllers\\trabajadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B30B996-3F70-443B-BF4D-872F696E87F0}|TrabajadoresPrueba\\TrabajadoresPrueba.csproj|solutionrelative:trabajadoresprueba\\controllers\\trabajadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\RYZEN\\source\\repos\\TrabajadoresPrueba\\TrabajadoresPrueba\\Controllers\\TrabajadoresController.cs",
+              "RelativeDocumentMoniker": "TrabajadoresPrueba\\Controllers\\TrabajadoresController.cs",
+              "ToolTip": "C:\\Users\\RYZEN\\source\\repos\\TrabajadoresPrueba\\TrabajadoresPrueba\\Controllers\\TrabajadoresController.cs",
+              "RelativeToolTip": "TrabajadoresPrueba\\Controllers\\TrabajadoresController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:03:52.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
